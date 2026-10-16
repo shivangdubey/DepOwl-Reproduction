@@ -17,3 +17,7 @@ Needs Linux (Ubuntu 22.04/24.04, or WSL on Windows).
        bash build_all.sh   # builds 360 library releases into build/
        bash full_run.sh    # rebuilds apps, reproduces failures, reruns DepOwl, compares with expected/
 
+<img width="1544" height="883" alt="image" src="https://github.com/user-attachments/assets/4be3330e-0e58-45ae-a803-25fb8bf6b9ff" />
+
+<img width="1024" height="342" alt="image" src="https://github.com/user-attachments/assets/27ce2ae3-1bbd-44ab-a6bb-4e8dd78a1400" />
+
