@@ -1,4 +1,4 @@
-# DepOwl RQ1 reproduction kit
+# DepOwl RQ1 reproduction files
 
 Reproduces RQ1 of Jia et al., "DepOwl: Detecting Dependency Bugs to Prevent Compatibility
 Failures" (ICSE 2021) on 15 real failures in zlib, expat and SQLite.
