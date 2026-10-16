@@ -1,0 +1,24 @@
+{
+ "ret_used": [
+  "gzgetc",
+  "gzopen"
+ ],
+ "fields": [],
+ "enum_members": [],
+ "called": [
+  "gzclose",
+  "gzgetc",
+  "gzopen"
+ ],
+ "undef_syms": {
+  "gzclose": null,
+  "__libc_start_main": "GLIBC_2.34",
+  "_ITM_deregisterTMCloneTable": null,
+  "gzgetc": null,
+  "__gmon_start__": null,
+  "gzopen": null,
+  "_ITM_registerTMCloneTable": null,
+  "__cxa_finalize": "GLIBC_2.2.5"
+ },
+ "build": "1.2.5.1"
+}

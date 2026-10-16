@@ -1,0 +1,32 @@
+{
+ "ret_used": [
+  "sqlite3_column_origin_name"
+ ],
+ "fields": [],
+ "enum_members": [],
+ "called": [
+  "printf",
+  "sqlite3_close",
+  "sqlite3_column_origin_name",
+  "sqlite3_exec",
+  "sqlite3_finalize",
+  "sqlite3_open",
+  "sqlite3_prepare_v2"
+ ],
+ "undef_syms": {
+  "__libc_start_main": "GLIBC_2.34",
+  "_ITM_deregisterTMCloneTable": null,
+  "puts": "GLIBC_2.2.5",
+  "sqlite3_exec": null,
+  "sqlite3_open": null,
+  "__stack_chk_fail": "GLIBC_2.4",
+  "__gmon_start__": null,
+  "sqlite3_close": null,
+  "sqlite3_column_origin_name": null,
+  "sqlite3_finalize": null,
+  "sqlite3_prepare_v2": null,
+  "_ITM_registerTMCloneTable": null,
+  "__cxa_finalize": "GLIBC_2.2.5"
+ },
+ "build": "3.40.1"
+}

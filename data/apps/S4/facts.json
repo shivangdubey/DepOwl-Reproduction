@@ -1,0 +1,21 @@
+{
+ "ret_used": [
+  "sqlite3_errstr"
+ ],
+ "fields": [],
+ "enum_members": [],
+ "called": [
+  "puts",
+  "sqlite3_errstr"
+ ],
+ "undef_syms": {
+  "__libc_start_main": "GLIBC_2.34",
+  "_ITM_deregisterTMCloneTable": null,
+  "puts": "GLIBC_2.2.5",
+  "__gmon_start__": null,
+  "sqlite3_errstr": null,
+  "_ITM_registerTMCloneTable": null,
+  "__cxa_finalize": "GLIBC_2.2.5"
+ },
+ "build": "3.9.1"
+}

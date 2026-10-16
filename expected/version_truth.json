@@ -1,0 +1,152 @@
+[
+ {
+  "id": "Z1",
+  "n_versions": 51,
+  "truly_failing": 20,
+  "suggested": 20,
+  "both": 20,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "Z2",
+  "n_versions": 51,
+  "truly_failing": 23,
+  "suggested": 23,
+  "both": 23,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "Z3",
+  "n_versions": 51,
+  "truly_failing": 36,
+  "suggested": 36,
+  "both": 36,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "Z4",
+  "n_versions": 51,
+  "truly_failing": 44,
+  "suggested": 44,
+  "both": 44,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "E1",
+  "n_versions": 45,
+  "truly_failing": 2,
+  "suggested": 2,
+  "both": 2,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "E2",
+  "n_versions": 45,
+  "truly_failing": 2,
+  "suggested": 2,
+  "both": 2,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "S1",
+  "n_versions": 264,
+  "truly_failing": 169,
+  "suggested": 169,
+  "both": 169,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "S2",
+  "n_versions": 264,
+  "truly_failing": 123,
+  "suggested": 123,
+  "both": 123,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "S3",
+  "n_versions": 264,
+  "truly_failing": 85,
+  "suggested": 85,
+  "both": 85,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "S4",
+  "n_versions": 264,
+  "truly_failing": 102,
+  "suggested": 102,
+  "both": 102,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "S5",
+  "n_versions": 264,
+  "truly_failing": 84,
+  "suggested": 84,
+  "both": 84,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "S6",
+  "n_versions": 264,
+  "truly_failing": 29,
+  "suggested": 29,
+  "both": 29,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "S7",
+  "n_versions": 264,
+  "truly_failing": 55,
+  "suggested": 55,
+  "both": 55,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "S8",
+  "n_versions": 264,
+  "truly_failing": 35,
+  "suggested": 35,
+  "both": 35,
+  "missed": "",
+  "extra": "",
+  "build_in_suggested": false
+ },
+ {
+  "id": "S9",
+  "n_versions": 264,
+  "truly_failing": 264,
+  "suggested": 29,
+  "both": 29,
+  "missed": "[3.3.9, Vlast]",
+  "extra": "",
+  "build_in_suggested": false
+ }
+]

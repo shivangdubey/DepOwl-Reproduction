@@ -1,0 +1,24 @@
+{
+ "ret_used": [
+  "sqlite3_enable_load_extension"
+ ],
+ "fields": [],
+ "enum_members": [],
+ "called": [
+  "sqlite3_close",
+  "sqlite3_enable_load_extension",
+  "sqlite3_open"
+ ],
+ "undef_syms": {
+  "__libc_start_main": "GLIBC_2.34",
+  "_ITM_deregisterTMCloneTable": null,
+  "sqlite3_open": null,
+  "__stack_chk_fail": "GLIBC_2.4",
+  "__gmon_start__": null,
+  "sqlite3_enable_load_extension": null,
+  "sqlite3_close": null,
+  "_ITM_registerTMCloneTable": null,
+  "__cxa_finalize": "GLIBC_2.2.5"
+ },
+ "build": "3.6.11"
+}

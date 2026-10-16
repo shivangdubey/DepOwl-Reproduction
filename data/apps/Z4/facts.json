@@ -1,0 +1,27 @@
+{
+ "ret_used": [
+  "inflateInit_",
+  "inflateValidate"
+ ],
+ "fields": [],
+ "enum_members": [],
+ "called": [
+  "inflateEnd",
+  "inflateInit_",
+  "inflateValidate",
+  "memset"
+ ],
+ "undef_syms": {
+  "__libc_start_main": "GLIBC_2.34",
+  "_ITM_deregisterTMCloneTable": null,
+  "inflateValidate": "ZLIB_1.2.9",
+  "__stack_chk_fail": "GLIBC_2.4",
+  "memset": "GLIBC_2.2.5",
+  "__gmon_start__": null,
+  "inflateEnd": null,
+  "inflateInit_": null,
+  "_ITM_registerTMCloneTable": null,
+  "__cxa_finalize": "GLIBC_2.2.5"
+ },
+ "build": "1.3"
+}

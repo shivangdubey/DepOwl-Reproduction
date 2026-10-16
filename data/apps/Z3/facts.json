@@ -1,0 +1,37 @@
+{
+ "ret_used": [
+  "gzgetc_",
+  "gzopen"
+ ],
+ "fields": [
+  [
+   "gzFile_s",
+   "have"
+  ],
+  [
+   "gzFile_s",
+   "next"
+  ],
+  [
+   "gzFile_s",
+   "pos"
+  ]
+ ],
+ "enum_members": [],
+ "called": [
+  "gzclose",
+  "gzgetc_",
+  "gzopen"
+ ],
+ "undef_syms": {
+  "gzclose": null,
+  "__libc_start_main": "GLIBC_2.34",
+  "_ITM_deregisterTMCloneTable": null,
+  "__gmon_start__": null,
+  "gzgetc_": "ZLIB_1.2.5.2",
+  "gzopen": null,
+  "_ITM_registerTMCloneTable": null,
+  "__cxa_finalize": "GLIBC_2.2.5"
+ },
+ "build": "1.2.5.2"
+}

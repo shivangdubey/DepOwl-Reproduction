@@ -1,0 +1,14 @@
+[
+ {
+  "id": "paper_gzgetc",
+  "expected": "[1.2.5.2]",
+  "got": "[1.2.5.2]",
+  "match": true
+ },
+ {
+  "id": "paper_unalz",
+  "expected": "[1.2.7, Vlast]",
+  "got": "[1.2.7, Vlast]",
+  "match": true
+ }
+]

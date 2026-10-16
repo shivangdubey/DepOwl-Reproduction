@@ -1,0 +1,23 @@
+{
+ "ret_used": [
+  "XML_ParserCreate"
+ ],
+ "fields": [],
+ "enum_members": [],
+ "called": [
+  "XML_ParserCreate",
+  "XML_ParserFree",
+  "XML_SetHashSalt"
+ ],
+ "undef_syms": {
+  "__libc_start_main": "GLIBC_2.34",
+  "_ITM_deregisterTMCloneTable": null,
+  "XML_ParserCreate": null,
+  "XML_ParserFree": null,
+  "XML_SetHashSalt": null,
+  "__gmon_start__": null,
+  "_ITM_registerTMCloneTable": null,
+  "__cxa_finalize": "GLIBC_2.2.5"
+ },
+ "build": "2.1.0"
+}

@@ -1,0 +1,19 @@
+{
+ "ret_used": [
+  "get_crc_table"
+ ],
+ "fields": [],
+ "enum_members": [],
+ "called": [
+  "get_crc_table"
+ ],
+ "undef_syms": {
+  "get_crc_table": null,
+  "__libc_start_main": "GLIBC_2.34",
+  "_ITM_deregisterTMCloneTable": null,
+  "__gmon_start__": null,
+  "_ITM_registerTMCloneTable": null,
+  "__cxa_finalize": "GLIBC_2.2.5"
+ },
+ "build": "1.2.6.1"
+}

@@ -1,0 +1,21 @@
+{
+ "ret_used": [
+  "sqlite3_malloc64"
+ ],
+ "fields": [],
+ "enum_members": [],
+ "called": [
+  "sqlite3_free",
+  "sqlite3_malloc64"
+ ],
+ "undef_syms": {
+  "__libc_start_main": "GLIBC_2.34",
+  "_ITM_deregisterTMCloneTable": null,
+  "sqlite3_malloc64": null,
+  "__gmon_start__": null,
+  "sqlite3_free": null,
+  "_ITM_registerTMCloneTable": null,
+  "__cxa_finalize": "GLIBC_2.2.5"
+ },
+ "build": "3.8.7"
+}
